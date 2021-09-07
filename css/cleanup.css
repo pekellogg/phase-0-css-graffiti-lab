@@ -1,1 +1,34 @@
-/* write your override styles here */
+/* skull with ice cream hat */
+div#wall div.tag-1 {
+    display: none;
+}
+
+/* panda with tongue & blue and pink splatter */
+div#wall div#tag-2 {
+    display: none;
+}
+
+/* gray letter blocking */
+div#wall div#tag-3.slick {
+    display: none;
+}
+
+/* gorilla's band member holding up peace sign */
+div#wall div.parent div#tag-4 {
+    display: none;
+}
+
+/* green spray paint */
+div#wall div.parent div#tag-5.slick {
+    display: none;
+}
+
+/* giant face sticking out tongue */
+body div#wall div.parent div:last-child div#tag-6 {
+    display: none;
+}
+
+/* looks like a Banksy piece */
+body div#wall div.parent div > div#tag-7.slick {
+    display: none;
+}
